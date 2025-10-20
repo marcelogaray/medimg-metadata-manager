@@ -1,0 +1,117 @@
+{
+  "image_id": "19f8a1e9-1a89-4968-b53f-0d4817482f72",
+  "filename": "sample_003.nii.gz",
+  "format_type": "NIfTI",
+  "creation_date": "2025-10-18T22:01:56.275430",
+  "last_modified": "2025-10-18T22:01:56.275430",
+  "file_size": 227334,
+  "metadata": {
+    "nifti_sizeof_hdr": 348,
+    "nifti_data_type": "b''",
+    "nifti_db_name": "b''",
+    "nifti_extents": 0,
+    "nifti_session_error": 0,
+    "nifti_regular": "b''",
+    "nifti_dim_info": 0,
+    "nifti_dim": [
+      3,
+      64,
+      64,
+      32,
+      1,
+      1,
+      1,
+      1
+    ],
+    "nifti_intent_p1": 0.0,
+    "nifti_intent_p2": 0.0,
+    "nifti_intent_p3": 0.0,
+    "nifti_intent_code": 0,
+    "nifti_datatype": "uint16",
+    "nifti_bitpix": 16,
+    "nifti_slice_start": 0,
+    "nifti_pixdim": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "nifti_vox_offset": 0.0,
+    "nifti_scl_slope": NaN,
+    "nifti_scl_inter": NaN,
+    "nifti_slice_end": 0,
+    "nifti_slice_code": 0,
+    "nifti_xyzt_units": 0,
+    "nifti_cal_max": 0.0,
+    "nifti_cal_min": 0.0,
+    "nifti_slice_duration": 0.0,
+    "nifti_toffset": 0.0,
+    "nifti_glmax": 0,
+    "nifti_glmin": 0,
+    "nifti_descrip": "b''",
+    "nifti_aux_file": "b''",
+    "nifti_qform_code": 0,
+    "nifti_sform_code": 2,
+    "nifti_quatern_b": 0.0,
+    "nifti_quatern_c": 0.0,
+    "nifti_quatern_d": 0.0,
+    "nifti_qoffset_x": 0.0,
+    "nifti_qoffset_y": 0.0,
+    "nifti_qoffset_z": 0.0,
+    "nifti_srow_x": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "nifti_srow_y": [
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    "nifti_srow_z": [
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "nifti_intent_name": "b''",
+    "nifti_magic": "b'n+1'",
+    "nifti_affine": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "nifti_shape": [
+      64,
+      64,
+      32
+    ]
+  }
+}

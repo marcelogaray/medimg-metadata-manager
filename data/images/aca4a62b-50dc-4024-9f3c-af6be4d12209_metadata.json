@@ -1,0 +1,33 @@
+{
+  "image_id": "aca4a62b-50dc-4024-9f3c-af6be4d12209",
+  "filename": "TestImage.jpg",
+  "format_type": "JPEG",
+  "creation_date": "2025-10-18T20:51:09.302038",
+  "last_modified": "2025-10-18T20:51:09.302038",
+  "file_size": 31076,
+  "metadata": {
+    "file_size": 31076,
+    "file_extension": ".jpg",
+    "structured_metadata": {
+      "patient_info": {
+        "patient_id": "1",
+        "patient_name": "test",
+        "patient_age": null,
+        "patient_sex": null,
+        "patient_birth_date": null
+      },
+      "study_info": {
+        "study_id": null,
+        "study_date": null,
+        "study_time": null,
+        "study_description": "test",
+        "modality": "ct",
+        "institution_name": null
+      },
+      "image_info": {},
+      "custom_fields": {},
+      "created_at": "2025-10-18T20:50:53.678693",
+      "updated_at": "2025-10-18T20:51:04.337410"
+    }
+  }
+}
